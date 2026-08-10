@@ -1,7 +1,3 @@
-# 👋 Hi, I'm Levi Flores
-
-### Full Stack Developer · AI & Machine Learning · Automation · Cloud
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Levi%20Flores&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%7C%20Automation&descAlignY=55&descSize=20" />
 </p>
