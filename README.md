@@ -19,237 +19,179 @@
 </p>
 
 ---
+<div align="center">
 
-## 🚀 About Me
+# Levi Flores
 
-I'm a **Full Stack Developer** focused on building scalable web applications, REST APIs, automation solutions and AI-driven software.
+### Full Stack Developer · AI & Machine Learning · Automation · Cloud
 
-My technical background combines:
+Building scalable software, intelligent systems and automation solutions.
 
-* 💻 Full Stack Web Development
-* 🤖 Artificial Intelligence & Machine Learning
-* 📊 Data Science & Data Visualization
-* ⚙️ Industrial Automation & Robotics
-* ☁️ Cloud Computing & DevOps
-* 🗄️ Relational & NoSQL Databases
-* 🔐 Application & Database Security
-* 🐧 Linux & Unix environments
+<br>
 
-I enjoy combining software engineering, automation and artificial intelligence to create practical and scalable solutions.
+<a href="https://github.com/levifvy">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/levifv26">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:levifv.madrid@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
----
-
-## 🧠 Core Areas
-
-<table>
-<tr>
-<td width="50%">
-
-### 💻 Software Engineering
-
-* Full Stack Development
-* RESTful APIs
-* Client–Server Architecture
-* Backend Development
-* Frontend Development
-* Database Design
-* Authentication & Authorization
-* Software Testing
-* Performance Optimization
-
-</td>
-
-<td width="50%">
-
-### 🤖 AI & Automation
-
-* Machine Learning
-* Neural Networks
-* LLM Integration
-* AI-powered applications
-* Chatbots
-* Web Scraping
-* Process Automation
-* Data Visualization
-* Industrial Automation
-* Robotics
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-# 🛠️ Tech Stack
+# 👨‍💻 About
 
-## 👨‍💻 Programming Languages
+I'm a **Full Stack Developer** focused on building scalable web applications,
+RESTful APIs, automation solutions and AI-driven software.
+
+My background combines software engineering, artificial intelligence,
+data science, cloud technologies and industrial automation.
+
+I focus on designing solutions that are:
+
+- scalable
+- maintainable
+- secure
+- testable
+- automation-oriented
+- data-driven
+
+My engineering interests sit at the intersection of:
+
+**Software Engineering × Artificial Intelligence × Automation**
+
+---
+
+# 🧭 Engineering Focus
+
+| Area | Focus |
+|---|---|
+| 💻 Software Engineering | Full Stack applications, APIs, architecture |
+| 🧠 Artificial Intelligence | Machine Learning, Neural Networks, LLMs |
+| 📊 Data | Data Processing, Visualization, Power BI |
+| ⚙️ Automation | Process Automation, Web Scraping |
+| 🤖 Robotics | PLCs, Collaborative & Industrial Robotics |
+| ☁️ Cloud | AWS, Docker, deployment environments |
+| 🗄️ Data Engineering | SQL, NoSQL, caching and optimization |
+| 🔐 Security | Authentication, authorization, database security |
+
+---
+
+# 🛠️ Technology Stack
+
+## Languages
 
 <p align="left">
 
-<a href="https://www.java.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
-</a>
-
-<a href="https://www.php.net/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP"/>
-</a>
-
-<a href="https://www.python.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-</a>
-
-<a href="https://go.dev/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" height="50" alt="Go"/>
-</a>
-
-<a href="https://kotlinlang.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50" alt="Kotlin"/>
-</a>
-
-<a href="https://www.typescriptlang.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" title="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" title="Go"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" title="Kotlin"/>
 
 </p>
+
+`Java` · `PHP` · `Python` · `JavaScript` · `Go` · `Kotlin`
 
 ---
 
-## 🌐 Frontend Development
+## Backend
 
 <p align="left">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
-</a>
-
-<a href="https://react.dev/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
-</a>
-
-<a href="https://vuejs.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js"/>
-</a>
-
-<a href="https://angular.dev/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="50" height="50" alt="Angular"/>
-</a>
-
-<a href="https://tailwindcss.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" title="Spring Boot"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" title="Laravel"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" title="Flask"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="45" title="Apache Tomcat"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45" title="Maven"/>
 
 </p>
+
+**Frameworks & Technologies**
+
+`Spring Boot` · `Jakarta EE` · `Servlets` · `JSP` · `JDBC`  
+`JPA` · `Hibernate` · `Laravel` · `Flask` · `Apache Tomcat`  
+`Maven` · `RESTful APIs` · `XML`
 
 ---
 
-## ⚙️ Backend & Frameworks
+## Frontend
 
 <p align="left">
 
-<a href="https://spring.io/projects/spring-boot">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring Boot"/>
-</a>
-
-<a href="https://laravel.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" height="50" alt="Laravel"/>
-</a>
-
-<a href="https://flask.palletsprojects.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" alt="Flask"/>
-</a>
-
-<a href="https://jakarta.ee/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Jakarta EE"/>
-</a>
-
-<a href="https://tomcat.apache.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="50" height="50" alt="Apache Tomcat"/>
-</a>
-
-<a href="https://maven.apache.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="50" height="50" alt="Maven"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" title="Vue"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="45" title="Angular"/>
 
 </p>
 
-### Backend Technologies
-
-`Spring Boot` · `Jakarta EE` · `Servlets` · `JSP` · `JDBC` · `JPA` · `Hibernate` · `Laravel` · `Flask` · `REST APIs` · `XML`
+`HTML5` · `CSS3` · `JavaScript` · `React` · `Vue` · `Angular`
 
 ---
 
-## 📱 Mobile Development
+## Mobile
 
 <p align="left">
 
-<a href="https://ionicframework.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="50" height="50" alt="Ionic"/>
-</a>
-
-<a href="https://vuejs.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue"/>
-</a>
-
-<a href="https://developer.android.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50" alt="Android"/>
-</a>
-
-<a href="https://firebase.google.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" alt="Firebase"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="45" title="Ionic"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45" title="Android"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" title="Firebase"/>
 
 </p>
 
-**Technologies:** Ionic · Vue · Jetpack · Firebase · Android
+`Ionic` · `Vue` · `Jetpack` · `Firebase`
 
 ---
 
-# 🤖 AI & Data Science
+# 🤖 AI & Data
 
 <p align="left">
 
-<a href="https://www.python.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-</a>
-
-<a href="https://numpy.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
-</a>
-
-<a href="https://pandas.pydata.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
-</a>
-
-<a href="https://jupyter.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter"/>
-</a>
-
-<a href="https://scikit-learn.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" alt="Scikit-learn"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" title="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" title="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" title="Jupyter"/>
 
 </p>
 
-### AI / Data Skills
+### Machine Learning
 
-* 🧠 Machine Learning
-* 🧬 Neural Networks
-* 🤖 Generative AI
-* 🔗 LLM Integration
-* 💬 AI Chatbots
-* 📈 Data Visualization
-* 🕷️ Web Scraping
-* ⚡ AI-driven Development
-* 🔄 Process Automation
-* 📊 Power BI
+- Machine Learning
+- Neural Networks
+- Classification
+- Feature Engineering
+- Feature Scaling
+- Cross-Validation
+- Hyperparameter Tuning
+- Tree-based Methods
+- Data Leakage Detection
+- Class Imbalance
+- Tabular Machine Learning
+
+### Generative AI
+
+- LLM Integration
+- AI-powered applications
+- Chatbots
+- AI-assisted development
+- Development automation
+
+### Data
+
+- Python
+- NumPy
+- Pandas
+- Data Visualization
+- Web Scraping
+- Power BI
 
 ---
 
@@ -257,277 +199,61 @@ I enjoy combining software engineering, automation and artificial intelligence t
 
 <p align="left">
 
-<a href="https://www.mysql.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
-</a>
-
-<a href="https://www.postgresql.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
-</a>
-
-<a href="https://www.oracle.com/database/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50" alt="Oracle Database"/>
-</a>
-
-<a href="https://www.mongodb.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
-</a>
-
-<a href="https://redis.io/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="Redis"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" title="Oracle"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" title="Redis"/>
 
 </p>
 
-**Databases:** MySQL · PostgreSQL · Oracle Database · MongoDB · Redis · Memcached
+`MySQL` · `PostgreSQL` · `Oracle Database`  
+`MongoDB` · `Redis` · `Memcached`
 
 ---
 
-# ☁️ Cloud, DevOps & Tools
+# ☁️ Cloud & DevOps
 
 <p align="left">
 
-<a href="https://www.docker.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-</a>
-
-<a href="https://github.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
-</a>
-
-<a href="https://aws.amazon.com/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70" height="50" alt="AWS"/>
-</a>
-
-<a href="https://www.linux.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
-</a>
-
-<a href="https://www.gnu.org/software/bash/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="65" title="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" title="Bash"/>
 
 </p>
 
-**DevOps:** Docker · Git · GitHub · AWS Cloud · Linux · Unix · Bash/Shell Scripting · REST APIs
+`Docker` · `Git` · `GitHub` · `AWS Cloud`  
+`Linux` · `Unix` · `Bash / Shell Scripting`
 
 ---
 
-# 🤖 Industrial Automation & Robotics
+# 🏗️ Software Engineering
 
-My technical background also includes **industrial automation and collaborative robotics**.
-
-### 🔧 Technologies & Tools
-
-`Factory I/O` · `EPLAN` · `RoboDK` · `Omron PLC` · `Universal Robots` · `KUKA` · `ABB`
-
-### Areas
-
-* Industrial automation
-* Collaborative robotics
-* PLC programming
-* Sensors & actuators
-* Robotic cells
-* Fixed and mobile collaborative robots
-* Process automation
-* Industrial simulation
-
----
-
-# 🔐 Security & Architecture
-
-* 🔑 Authentication & Authorization
-* 👥 Role-Based Access Control
-* 🛡️ Database Security
-* 🔒 Secure Application Development
-* 🏗️ Client–Server Architecture
-* 🔌 RESTful API Design
-* 📦 Containerized Applications
-* ⚡ Performance Optimization
-* 🧪 Testing & Maintainability
-
----
-
-# 📂 Featured Projects
-
-## 🧠 Machine Learning Projects
-
-> Machine Learning and Neural Network projects developed using Python.
-
-**Technologies:**
-`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Jupyter` · `Machine Learning`
-
----
-
-## 🌐 Full Stack Web Applications
-
-> Scalable web applications developed using modern frontend and backend technologies.
-
-**Technologies:**
-`PHP` · `Laravel` · `Java` · `Spring Boot` · `JavaScript` · `React` · `Vue` · `MySQL` · `PostgreSQL`
-
----
-
-## 🔌 REST API Projects
-
-> Backend services focused on API architecture, authentication, database integration and performance.
-
-**Technologies:**
-`PHP` · `Laravel` · `Java` · `Spring Boot` · `REST API` · `MySQL` · `Docker`
-
----
-
-## 🤖 Automation & Robotics
-
-> Industrial automation project integrating PLCs, sensors and collaborative robots to automate a manual production process.
-
-**Technologies:**
-`Factory I/O` · `EPLAN` · `RoboDK` · `Omron PLC` · `Universal Robots` · `KUKA` · `ABB`
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=levifvy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levifvy&layout=compact&langs_count=10&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=levifvy&theme=tokyonight&hide_border=false" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=levifvy&theme=tokyo-night" />
-</p>
-
----
-
-# 🎯 Current Focus
+### Architecture
 
 ```text
-Full Stack Development
-        ↓
-AI & Machine Learning
-        ↓
-Generative AI & LLMs
-        ↓
-Automation
-        ↓
-Cloud & DevOps
-        ↓
-Scalable Software Solutions
-```
-
-Currently focused on improving my skills in:
-
-* 🤖 Machine Learning
-* 🧠 Artificial Intelligence
-* 🔗 LLM integration
-* ☁️ Cloud technologies
-* 🐳 Docker & DevOps
-* 🌐 Full Stack development
-* 📊 Data Science
-* ⚙️ Automation
-
----
-
-# 🎓 Education & Professional Training
-
-### 🎓 CFGS — Web Application Development
-
-**Institut Puig i Castellar — Barcelona · 2025**
-
-### 🤖 Collaborative Robotics — 400h
-
-**Institut Escola del Treball — Barcelona · 2026**
-
-### 🐍 Python Bootcamp — 110h
-
-**CIFO La Violeta — Barcelona · 2024**
-
-### 🌐 PHP Full Stack Bootcamp — 350h
-
-**ITAcademy / Barcelona Activa — Barcelona · 2023**
-
-### 🖥️ Internet Services Administration — 520h
-
-**Grupo Coremsa — Murcia · 2022**
-
-### ☁️ Google IT Support Professional Certificate
-
-**Coursera · 2022**
-
----
-
-# 🌍 Languages
-
-| Language     | Level  |
-| ------------ | ------ |
-| 🇪🇸 Spanish | Native |
-| 🇬🇧 English | B2     |
-| 🏴 Catalan   | B2     |
-
----
-
-# 💡 Professional Strengths
-
-```text
-System Thinking
-Product Mindset
-Technological Adaptability
-Technical Communication
-Technical Autonomy
-Continuous Improvement
-Security Awareness
-AI-Driven Development
-```
-
----
-
-# 📫 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/levifvy">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/levifv26">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:levifv.madrid@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### 🚀 Building software. Automating processes. Exploring AI.
-
-⭐ If you find my projects interesting, feel free to explore my repositories and connect with me.
-
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>
-</p>
+                    ┌─────────────────────┐
+                    │      Frontend       │
+                    │ React / Vue / JS    │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │      REST API       │
+                    │ Spring / Laravel    │
+                    │       Flask         │
+                    └──────────┬──────────┘
+                               │
+                ┌──────────────┼──────────────┐
+                ▼              ▼              ▼
+           ┌─────────┐   ┌──────────┐   ┌──────────┐
+           │ MySQL   │   │PostgreSQL│   │ MongoDB  │
+           └─────────┘   └──────────┘   └──────────┘
+                               │
+                               ▼
+                         ┌───────────┐
+                         │   Redis   │
+                         └───────────┘
